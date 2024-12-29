@@ -4,3 +4,6 @@ class Trends:
 
     def intro(self):
         print("hi guys")
+    
+    def gitCheck(self):
+        print("hello")
