@@ -1,0 +1,2 @@
+tr = Trends()
+tr.intro()
