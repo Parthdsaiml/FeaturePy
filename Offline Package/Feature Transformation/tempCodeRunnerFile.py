@@ -1,2 +1,1 @@
-tr = Trends()
-tr.intro()
+inmax Salary']

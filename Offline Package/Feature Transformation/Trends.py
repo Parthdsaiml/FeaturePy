@@ -25,6 +25,7 @@ class Trends:
             frequency_dict[column] = df[column].value_counts(normalize=True).to_dict() * 100
         return frequency_dict
             
+        
 
     
 
